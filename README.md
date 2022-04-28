@@ -1,4 +1,4 @@
-# Benewake LIDAR Tools
+# Benewake LIDAR CAN Library for Arduino
 Arduino scripts to interface to a Benewake TF03 LIDAR via the CAN interface.
 
 ```
